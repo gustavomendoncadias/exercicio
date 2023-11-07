@@ -1,0 +1,2 @@
+# exercicio
+ exercici002
